@@ -3,6 +3,8 @@
 - 🌱 Estudando linguagem C#
 - 📫 Contate-me no email brunoeduds84@gmail.com
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brunoeduardoed433" alt="brunoeduardoed433" /></a> </p>
+
 <div align="center">
   <a href="https://github.com/brunoeduardoed433">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoeduardoed433&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
